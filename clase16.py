@@ -1,1 +1,6 @@
-prin("hola chicos y chicas")
+class Persona:
+    def __init__(self,nombre, apellido):
+        self.nombre = nombre
+        self.apellido =apellido
+
+
